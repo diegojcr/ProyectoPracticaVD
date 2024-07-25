@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1340
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIEW", "WindowsFormsApp1\VIEW.csproj", "{3769DA0C-2D2B-457A-8F0F-9871EC268279}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MODEL", "MODEL\MODEL.csproj", "{61483578-9071-45B5-9999-5F7BD7F04FD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CONTROLLER", "CONTROLLER\CONTROLLER.csproj", "{03DCF4D7-AA02-48D8-ACEE-FED70FC854C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3769DA0C-2D2B-457A-8F0F-9871EC268279}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3769DA0C-2D2B-457A-8F0F-9871EC268279}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3769DA0C-2D2B-457A-8F0F-9871EC268279}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3769DA0C-2D2B-457A-8F0F-9871EC268279}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61483578-9071-45B5-9999-5F7BD7F04FD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61483578-9071-45B5-9999-5F7BD7F04FD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61483578-9071-45B5-9999-5F7BD7F04FD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61483578-9071-45B5-9999-5F7BD7F04FD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03DCF4D7-AA02-48D8-ACEE-FED70FC854C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03DCF4D7-AA02-48D8-ACEE-FED70FC854C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03DCF4D7-AA02-48D8-ACEE-FED70FC854C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03DCF4D7-AA02-48D8-ACEE-FED70FC854C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E68E085-4FFC-4F37-A101-8F080046A075}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+C:\Users\Diego\source\repos\Practica\CONTROLLER\bin\Debug\CONTROLLER.dll
+C:\Users\Diego\source\repos\Practica\CONTROLLER\bin\Debug\CONTROLLER.pdb
+C:\Users\Diego\source\repos\Practica\CONTROLLER\bin\Debug\MODEL.dll
+C:\Users\Diego\source\repos\Practica\CONTROLLER\bin\Debug\MODEL.pdb
+C:\Users\Diego\source\repos\Practica\CONTROLLER\obj\Debug\CONTROLLER.csprojAssemblyReference.cache
+C:\Users\Diego\source\repos\Practica\CONTROLLER\obj\Debug\CONTROLLER.csproj.CoreCompileInputs.cache
+C:\Users\Diego\source\repos\Practica\CONTROLLER\obj\Debug\CONTROLLER.csproj.CopyComplete
+C:\Users\Diego\source\repos\Practica\CONTROLLER\obj\Debug\CONTROLLER.dll
+C:\Users\Diego\source\repos\Practica\CONTROLLER\obj\Debug\CONTROLLER.pdb
